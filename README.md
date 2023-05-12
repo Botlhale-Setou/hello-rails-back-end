@@ -28,7 +28,7 @@
 
 - A Rails API app that displays a random message converted into JSON format that is connected to the front end UI.
 
-Here is the front end repo [link]() that displays data that is fetched in the user interface.
+Here is the front end repo [link](https://github.com/Botlhale-Setou/hello-react-front-end) that displays data that is fetched in the user interface.
 
 ## 🛠 Built With <a name="built-with"></a>
 
